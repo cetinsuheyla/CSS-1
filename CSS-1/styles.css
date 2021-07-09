@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+  background-color: #548CA8;
+}
+nav {
+  font-size: 25px;
+  font-variant: small-caps;
+}
+a {
+    text-decoration: none;
+    color: #334257;
+}
+h1 {
+  color: #EEEEEE;
+}
+h2 {
+  color: #334257;
+}
+footer {
+  background-color: #548CA8;
+}
+body {
+  background-color: #EEEEEE;
+  font-family: sans-serif;
+}
